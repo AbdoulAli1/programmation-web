@@ -1,0 +1,17 @@
+.ali{
+	background-image:url("cover.jpg");
+}
+.blanc{
+	color: rgb(137,137,155);
+}
+img{
+	border-radius: 50px;
+}
+.mohamed{
+	background-color: rgb(0, 0, 34);
+}
+.footer{
+	padding: 20px;
+	text-align: center;
+	background: white;
+}
